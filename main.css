@@ -1,13 +1,15 @@
 body {
   width: 820px;
-  background-color: #9BD3DD;
+  background-color: #b5dcff;
   text-allign: center;
+  margin: 50px;
+  
 }
 
 h1 {
   font-size: 64px;
   font: tahoma;
-  text-allign: center;
+ 
 }
 
 h2 {
