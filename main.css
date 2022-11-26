@@ -3,12 +3,13 @@ body {
   background-color: #c8dff3;
   text-allign: center;
   margin: 50px;
+  font: Tahoma;
   
 }
 
 h1 {
   font-size: 48px;
-  font: tahoma;
+  font: Tahoma;
   border-bottom: 3px solid #5494AC;
   text-allign: center;
 }
@@ -16,12 +17,14 @@ h1 {
 h2 {
   font-size: 34px;
   text-allign: center;
+  font: Tahoma;
 }
 
 p {
   line-height: 1.9;
   font-size: 24px;
   text-allign: center;
+  font: Tahoma;
 }
 
 em {
