@@ -1,19 +1,24 @@
 body {
   width: 820px;
   background-color: #9BD3DD;
+  text-allign: center;
 }
 
 h1 {
   font-size: 64px;
+  font: tahoma;
+  text-allign: center;
 }
 
 h2 {
   font-size: 48px;
+  text-allign: center;
 }
 
 p {
   line-height: 1.9;
   font-size: 24px;
+  text-allign: center;
 }
 
 em {
