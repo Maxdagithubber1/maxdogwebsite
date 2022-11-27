@@ -1,7 +1,6 @@
 body {
   width: 820px;
   background-color: #c8dff3;
-  text-allign: center;
   margin: 50px;
   font: Tahoma;
   
@@ -11,19 +10,16 @@ h1 {
   font-size: 48px;
   font: Tahoma;
   border-bottom: 3px solid #5494AC;
-  text-allign: center;
 }
 
 h2 {
   font-size: 34px;
-  text-allign: center;
   font: Tahoma;
 }
 
 p {
   line-height: 1.9;
   font-size: 24px;
-  text-allign: center;
   font: Tahoma;
 }
 
@@ -62,6 +58,5 @@ em {
 ul {
   width: 820px;
   background-color: #c8dff3;
-  text-allign: center;
   font: Tahoma; 
   font size: 18; }
