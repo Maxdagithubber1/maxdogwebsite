@@ -43,6 +43,7 @@ em {
 	background-color: #d2c9ea;
 	border-bottom: 1px solid #ccc; 
 	border-top: 1px solid #ccc; }
+        font: Tahoma;
   
 #nav li a {
 		display: block;
@@ -55,3 +56,4 @@ em {
 #nav li a:hover {
 		color: #c00;
 		background-color: #fff; }
+ul {
